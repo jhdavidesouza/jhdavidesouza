@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hey, good to see you here 🍕
+
+## I'm Jhonatas, but you can call me "Tas"
+
+I want to let you know some things about me:
+
+- 🔎 I'm aiming a Web Developer career
+- 🔔 I'm excitedly waiting for an entry job opportunity to work with Front End Development
+- Every project I ellaborate is put right here in those repositories
+- If you don't know what repo you can start looking on, I suggest these ones:
+    1. 
 
 <!--
 **jhdavidesouza/jhdavidesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
