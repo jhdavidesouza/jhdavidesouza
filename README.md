@@ -5,7 +5,7 @@
 I want to let you know some things about me:
 
 - 🔎 I'm aiming a Web Developer career
-- 🔔 I'm excitedly waiting for an entry job opportunity to work with Front End Development
+- 🔔 I'm excitedly waiting for an entry job opportunity
 - Every project I ellaborate is put right here in those repositories
 
 <!--
