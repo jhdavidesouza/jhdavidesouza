@@ -1,14 +1,12 @@
-# 👦Olá, eu sou o Jhonatas! Bem-vind@ ao meu perfil no GitHub.
-
-- Aqui você encontra os projetos que tenho desenvolvido;
-- Consegue obter mais informação e contato profissional;
-- Pode conhecer um pouco mais sobre mim.
-
-## A minha atividade aqui no GitHub tem sido assim:
+# Olá! Sou o Jhonatas e quero me tornar um Desenvolvedor.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza&layout=compact&langs_count=7&theme="/>
 </div>
+
+
+
+
 
 ---
 Quer entrar em contato comigo? Clique em um desses links abaixo:
@@ -18,9 +16,14 @@ Quer entrar em contato comigo? Clique em um desses links abaixo:
 ---
 Você também pode visitar minhas redes sociais para me conhecer melhor:
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<div align="center">
+  <a href="https://www.linkedin.com/in/jhdavidesouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://codepen.io/jhdavidesouza"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://instagram.com/tas.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</div>
+
 ---
 Você gosta de música? Eu amo! 
 Se for para codar então, é uma maravilha! 
