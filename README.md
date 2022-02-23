@@ -26,6 +26,14 @@ Mas já me aventurei em desafios com estas:
 </div>
 
 ---
+Meus projetos estão alocados aqui:
+
+<div>
+  <a href="https://codepen.io/jhdavidesouza" target="_blank"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://github.com/jhdavidesouza" target="_blank"><img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+---
 Uso essas ferramentas para estudar e codar:
 
 <div>
@@ -59,10 +67,3 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
   <a href="https://open.spotify.com/user/kyz7ik36esmwxf2emyadoe56y" target="_blank"><img height="30em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
----
-Meus projetos estão alocados aqui:
-
-<div>
-  <a href="https://codepen.io/jhdavidesouza" target="_blank"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://github.com/jhdavidesouza" target="_blank"><img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
