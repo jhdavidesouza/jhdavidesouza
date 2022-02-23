@@ -1,3 +1,5 @@
+# Olá, eu sou o Jhonatas! Bem-vind@ ao meu perfil no GitHub.
+
 ## A minha atividade aqui no GitHub tem sido assim:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
