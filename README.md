@@ -1,5 +1,3 @@
-### My Great Heading #jhdavidesouza
-
 | A minha contribuição e atividade no GitHub tem sido assim: | |
 | ----------- | ----------- |
 | <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza"> |
@@ -34,15 +32,3 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-
-
-
-```
-
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-
-```
-
-~~The world is flat.~~
