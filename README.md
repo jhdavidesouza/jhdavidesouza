@@ -32,5 +32,12 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 
-Activity Status
+
+	```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
 
