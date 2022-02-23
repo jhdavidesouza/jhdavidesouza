@@ -47,18 +47,23 @@ Mas já me aventurei em desafios com estas:
   <img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
+---
+Minha ferramenta de Edição de Código é:
 
+<div>
+  <img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
 
-<img height="30em" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+---
+Anoto tudo o que aprendo no:
 
+<div>
+  <img height="30em" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
 
-
-
-
-
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-
+---
 Eu tenho projetos alocados aqui:
-<a href="https://codepen.io/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+
+<div>
+  <a href="https://codepen.io/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+</div>
