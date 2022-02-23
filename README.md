@@ -1,4 +1,4 @@
-<div align="center" style="display: block">
+<div align="center" style="display: flex">
   ##A minha atividade aqui no GitHub tem sido assim:
   
   <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
