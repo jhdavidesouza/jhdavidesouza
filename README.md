@@ -1,4 +1,4 @@
-# Olá, eu sou o Jhonatas! Bem-vind@ ao meu perfil no GitHub.
+# 👦Olá, eu sou o Jhonatas! Bem-vind@ ao meu perfil no GitHub.
 
 ## A minha atividade aqui no GitHub tem sido assim:
 <div align="center">
