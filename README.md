@@ -1,5 +1,9 @@
 # 👦Olá, eu sou o Jhonatas! Bem-vind@ ao meu perfil no GitHub.
 
+- Aqui você encontra os projetos que tenho desenvolvido;
+- Consegue obter mais informação e contato profissional;
+- Pode conhecer um pouco mais sobre mim.
+
 ## A minha atividade aqui no GitHub tem sido assim:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
