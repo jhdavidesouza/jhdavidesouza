@@ -63,6 +63,6 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 Meus projetos estão alocados aqui:
 
 <div>
-  <a href="https://codepen.io/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://github.com/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://codepen.io/jhdavidesouza" target="_blank"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://github.com/jhdavidesouza" target="_blank"><img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
