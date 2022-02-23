@@ -1,5 +1,9 @@
 ### My Great Heading #jhdavidesouza
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 A minha contribuição e atividade no GitHub tem sido assim:
 
@@ -44,3 +48,4 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 
 ```
 
+~~The world is flat.~~
