@@ -37,16 +37,16 @@ Uso essas ferramentas para estudar e codar:
 Quer entrar em contato comigo? Clique em um desses links abaixo:
 
 <div>
-  <a href="mailto:jhdavidesouza@gmail.com"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541992008589"><img height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:jhdavidesouza@gmail.com" target="_blank"><img height="30em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541992008589" target="_blank"><img height="30em" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 ---
 Você também pode visitar minhas redes sociais para me conhecer melhor:
 
 <div>
-  <a href="https://www.linkedin.com/in/jhdavidesouza/"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/tas.dev"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/jhdavidesouza/" target="_blank"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/tas.dev" target="_blank"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div>
 
@@ -56,7 +56,7 @@ Se for para codar então, é uma maravilha!
 Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 
 <div>
-  <img height="30em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <a href="https://open.spotify.com/user/kyz7ik36esmwxf2emyadoe56y" target="_blank"><img height="30em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
 
 ---
