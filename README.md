@@ -27,7 +27,7 @@ Se for para codar então, é uma maravilha!
 Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 
 <div>
-  <img  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  <img height="30em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
 </div>
 
 ---
