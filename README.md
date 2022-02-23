@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza">
 </div>
