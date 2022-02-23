@@ -70,4 +70,5 @@ Eu tenho projetos alocados aqui:
 
 <div>
   <a href="https://codepen.io/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  <a href="https://github.com/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
