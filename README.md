@@ -1,7 +1,7 @@
 # Olá! Sou o Jhonatas e quero me tornar um Desenvolvedor.
 <div align="center">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza&layout=compact&langs_count=7&theme="/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza&layout=compact&langs_count=7&theme="/>
 </div>
 
 ---
