@@ -17,10 +17,8 @@ Você também pode visitar minhas redes sociais para me conhecer melhor:
 
 <div>
   <a href="https://www.linkedin.com/in/jhdavidesouza/"><img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://codepen.io/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   <a href="https://instagram.com/tas.dev"><img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 </div>
 
 ---
@@ -28,7 +26,10 @@ Você gosta de música? Eu amo!
 Se for para codar então, é uma maravilha! 
 Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+<div>
+  <img height="30em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</div>
+
 ---
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -41,3 +42,6 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+Eu tenho projetos alocados aqui:
+<a href="https://codepen.io/jhdavidesouza"><img height="30em" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
