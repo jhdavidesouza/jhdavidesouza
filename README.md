@@ -33,11 +33,11 @@ Se quiser saber o que eu ouço no dia-a-dia, aqui está:
 
 
 
-	```
-{
+```
+
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
-}
+
 ```
 
