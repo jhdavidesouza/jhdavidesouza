@@ -1,4 +1,5 @@
 <div align="center">
+  ##A minha atividade aqui no GitHub tem sido assim:
   <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza">
 </div>
