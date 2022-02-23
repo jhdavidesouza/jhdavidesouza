@@ -1,13 +1,10 @@
 ### My Great Heading #jhdavidesouza
 
-| Syntax | Description |
+| A minha contribuição e atividade no GitHub tem sido assim: |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| <img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza"> |
 
-A minha contribuição e atividade no GitHub tem sido assim:
 
-<img src="https://github-readme-stats.vercel.app/api?username=jhdavidesouza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza">
 ---
 Quer entrar em contato comigo? Clique em um desses links abaixo:
 
