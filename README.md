@@ -4,15 +4,14 @@
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhdavidesouza&layout=compact&langs_count=7&theme="/>
 </div>
 
-
-
-
-
 ---
 Quer entrar em contato comigo? Clique em um desses links abaixo:
 
-<a href="mailto:jhdavidesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541992008589"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<div>
+  <a href="mailto:jhdavidesouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5541992008589"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
+
 ---
 Você também pode visitar minhas redes sociais para me conhecer melhor:
 
